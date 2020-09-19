@@ -31,6 +31,7 @@ The game ends when one of these things happen
 In a linux machine run the following commands.
 
 This command will get you the code in this repository:
+
 ```git clone https://github.com/pratapram/orbitalvelocity.git```
 
 We will use the OpenSpiel framework for our work:
@@ -46,6 +47,7 @@ Next we will copy the code for OVAI into this and compile
 ```
 
 You are ready to go. Run the following command to train an AI agent on Orbital Velocity game
+
 
 ```./examples/example --game=tic_tac_toe```
    
