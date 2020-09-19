@@ -32,16 +32,21 @@ In a linux machine run the following commands.
 
 This command will get you the code in this repository:
 
-```git clone https://github.com/pratapram/orbitalvelocity.git```
+```
+   git clone https://github.com/pratapram/orbitalvelocity.git
+```
 
 We will use the OpenSpiel framework for our work:
 
-```git clone https://github.com/deepmind/open_spiel.git ```
+```
+   git clone https://github.com/deepmind/open_spiel.git 
+```
 
 
 Next we will copy the code for OVAI into this and compile
 
-``` cp ../orbitalvelocity/orbital_velocity.* ../openspiel/openspiel/games/
+``` 
+   cp ../orbitalvelocity/orbital_velocity.* ../openspiel/openspiel/games/
    ./install.sh
    ./open_spiel/scripts/build_and_run_tests.sh # Run this every-time you need to rebuild.
 ```
@@ -49,5 +54,7 @@ Next we will copy the code for OVAI into this and compile
 You are ready to go. Run the following command to train an AI agent on Orbital Velocity game
 
 
-```./examples/example --game=tic_tac_toe```
+```
+   ./examples/example --game=tic_tac_toe
+```
    
