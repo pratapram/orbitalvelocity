@@ -1,4 +1,4 @@
-# orbitalvelocity - OVAI
+# Orbital Velocity AI  - OVAI
 AI to play the Orbital Velocity board game
 
 Welcome to the offcial Orbital Velocity AI project. We want Orbital Velocity to be fun way to learn AI. If you are interested in learning about AI, you have come to the right place. We dont expect you to be already in expert in AI, but there the prerequisites to be able to successfully create your own Orbital Velocity AI. You must
@@ -7,8 +7,8 @@ Welcome to the offcial Orbital Velocity AI project. We want Orbital Velocity to 
 * Be familiar with github, linux commands
 * Be familiar with python language
 
-# What is Orbital Velocity AI (OVAI)
-For most of us, the first exposure to AI is science fiction stories and movies. In many movies AI is represented as a talking robot, or an ominous voice, the OVAI is not anything like that. OVAI is much simpler and could be your simple way to learn about AI.  The OVAI agent that we will create, will rapidly play the Orbital Velocity game thousands of times, and start to learn how to play. Once you have trained an agent, you will be able to clearly understand what strategies it uses, and you will learn how to improve the agent to learn better strategies, and ultimately make your own OVAI win against you.
+# What is OVAI 
+OVAI is an abreviation for Orbital Velocity AI. For most of us, the first exposure to AI is science fiction stories and movies. In many movies AI is represented as a talking robot, or an ominous voice, but OVAI is different. OVAI is much simpler and could be your simple way to learn about AI.  The OVAI agent that we will create, will rapidly play the Orbital Velocity game thousands of times, and start to learn how to play. Once you have trained an agent, you will be able to clearly understand what strategies it uses, and you will learn how to improve the agent to learn better strategies, and ultimately make your own OVAI win against you.
 
 
 ## Problem statement
