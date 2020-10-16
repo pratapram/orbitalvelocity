@@ -1,5 +1,5 @@
 # Orbital Velocity AI  - OVAI
-AI to play the Orbital Velocity board game
+AI to play the Orbital Velocity board game. Note, this is a community effort and we are always looking for volunteers to help us in improving the user experience of this project.
 
 Welcome to the offcial Orbital Velocity AI project. We want Orbital Velocity to be fun way to learn AI. If you are interested in learning about AI, you have come to the right place. We dont expect you to be already in expert in AI, but there the prerequisites to be able to successfully create your own Orbital Velocity AI. You must
 
