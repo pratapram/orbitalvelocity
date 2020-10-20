@@ -55,6 +55,6 @@ You are ready to go. Run the following command to train an AI agent on Orbital V
 
 
 ```
-   ./examples/example --game=tic_tac_toe
+   ./examples/example --game=orbitalvelocity
 ```
    
